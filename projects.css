@@ -1,0 +1,20 @@
+img{
+  width:100%;
+  margin-top: -10em;
+}
+
+i{
+  display:flex;
+  position:absolute;
+  margin-top: -11.5em;
+  margin-left: 0.5em;
+  color: rgb(10,10,10)
+}
+
+i:visited{
+  color: rgb(10,10,10)
+}
+
+.uc{
+  position:relative;
+}
